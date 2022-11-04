@@ -1,0 +1,8 @@
+org\example\Controller\Promotion.class
+org\example\Model\formateursModel.class
+org\example\Model\briefsModel.class
+org\example\Controller\Brief.class
+org\example\Model\apprenantsModel.class
+org\example\helpers\Bufr.class
+org\example\Model\formateursModel$1.class
+org\example\Controller\Users\User.class
